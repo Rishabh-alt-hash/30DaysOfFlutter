@@ -1,8 +1,10 @@
 import "package:flutter/material.dart";
+import 'package:flutter_application_1/home_page.dart';
+import 'package:velocity_x/velocity_x.dart';
+
 import 'package:flutter_application_1/login_page.dart';
 import 'package:flutter_application_1/utils/routes.dart';
 import 'package:flutter_application_1/widgets/themes.dart';
-import 'home_page.dart';
 
 void main() {
   runApp(MyApp());
